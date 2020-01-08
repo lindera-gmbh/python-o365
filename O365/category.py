@@ -1,4 +1,5 @@
-from enum import Enum, auto
+from aenum import auto
+from enum import Enum
 
 from .utils import ApiComponent
 
